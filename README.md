@@ -13,25 +13,6 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 ## Usage
 
 1. Clone the repository:
-
-Absolutely, here's the README in markdown format:
-
-Copy code
-# Python Key Logger
-
-![GitHub license](https://img.shields.io/badge/license-GNU%20AGPL%20v3.0-blue.svg)
-
-## Description
-
-Python Key Logger is a simple script that captures keyboard input and logs it. Please note that the use of keyloggers for malicious purposes is against ethical and legal guidelines. This project is intended for educational and ethical use only.
-
-## License
-
-This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
-## Usage
-
-1. Clone the repository:
 git clone https://github.com/saad-muhammad01/Python-Key-Logger.git
 
 2. Navigate to the project directory:
